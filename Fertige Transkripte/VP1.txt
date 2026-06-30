@@ -224,3 +224,9 @@ Und wenn sie Ja, das ist 2.12 blablabla. Das scheint der gute Wert zu sein hier.
 Ja, alles klar.
 W sagen 3 super nice sind wir durch. du noch das hier in Bezug auf die letzte. L do mal die Aufnahme.
 Ja.
+Wie ist Ihr Gesamteindruck vom Webinterface?
+Intuitiv und logisch. Die Felder sollten größer sein.
+Was finden Sie, sind die wichtigsten Aspekte, die verbessert oder erweitert werden sollten?
+Die Nutzerführung. Am Ende von Studie durchführen sollte es ein call to action button geben.
+Gab es etwas, das Sie nicht verstanden haben oder schwierig umzusetzen fanden?
+Der Graph Szenario. Die Datenauswertung und Aufbereitung sollte intuitiver sein. Leien können nicht damit umgehen.
